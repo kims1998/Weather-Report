@@ -5,7 +5,7 @@ const keyId = "&appid=" + apiKey;
 const currently = document.querySelector(".currently");
 const theNextFive = document.querySelector(".nextFiveDays");
 const baseWeatherAPI = "https://api.openweathermap.org/data/2.5/weather?";
-const geocodeAPI = "http://api.openweathermap.org/geo/1.0/direct?";
+const geocodeAPI = "https://api.openweathermap.org/geo/1.0/direct?";
 const oneCallAPI = "https://api.openweathermap.org/data/2.5/onecall?";
 
 
