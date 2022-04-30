@@ -1,4 +1,6 @@
 # Weather-Report
+PAGE DID NOT DEPLOY ON GOOGLE CHROME, did deploy on Microsoft Edge.
+
 
 Waking up to a house with no windows to see outside sucks.
     This is why this weather website will decide whether or not you'll need an umbrella or a jacket!
