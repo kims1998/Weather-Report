@@ -42,8 +42,8 @@ If the user wishes to look at their previous searches, they are able to by the "
 
 
 Screenshots:
-<a href= "https://github.com/kims1998/Please-Remind-Me/blob/main/IMG/During_shift.JPG">When user searches a city.</a>
-<a href= "https://github.com/kims1998/Please-Remind-Me/blob/main/IMG/EOS.JPG">When user selects a city.</a>
+<a href= "https://github.com/kims1998/Weather-Report/blob/main/IMG/prompt%20search.JPG">When user searches a city.</a>
+<a href= "https://github.com/kims1998/Weather-Report/blob/main/IMG/active%20page%20weather.JPG">When user selects a city.</a>
 
 URLs:
 <a href= "https://kims1998.github.io/Weather-Report/">Deployed URL</a>
