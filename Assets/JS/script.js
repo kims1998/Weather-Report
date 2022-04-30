@@ -1,15 +1,3 @@
-//when input, it will make an API call
-//when you type in the city and click search, the weather for that city shows up.
-
-//search bar goes here, where user can input location to get a information on the city searched.
-
-//when the search is successful, it will display the city name, date, icon representing the current weather condition, temp, humidity, winds speed, and uv index.
-
-//5 days worth of weather report must be reported.
-
-
-// search history shows current and future weather for that city.
-
 //Information provided from the OpenWeatherMap web page.
 const apiKey = "3af2daa697039b84dd4116deaa485545";
 const keyId = "&appid=" + apiKey;
@@ -78,6 +66,7 @@ searchResult.addEventListener("click", function (event) {
     };
 });
 
+//when the search is successful, it will display the city name, date, icon representing the current weather condition, temp, humidity, winds speed, and uv index.
 //Once the API has been called after the user's input is searched, this function helps display the information that is being requested.
 //this first portion of the function displays the current day and weather, along with the location by city, state, and country.
 async function displayTheForeCast(city) {
