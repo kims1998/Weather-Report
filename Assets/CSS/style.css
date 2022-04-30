@@ -1,0 +1,13 @@
+.form-label,
+.text-center,
+.col-8,
+.cityLabel,
+.card-title,
+.forecastLabel {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-center h4 {
+    position: relative;
+    left: 20px;
+}

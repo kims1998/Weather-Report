@@ -24,7 +24,7 @@ const oneCallAPI = "https://api.openweathermap.org/data/2.5/onecall?";
 //declaring variables/constants/let provided from the html page.
 const history = document.querySelector("#history");
 const searchBtn = document.querySelector("#search-btn");
-const userInput = document.querySelector("#search-input");
+const userInput = document.querySelector("#input");
 const searchResult = document.querySelector("#search-result");
 const cityLabel = document.querySelector(".cityLabel");
 const forecastLabel = document.querySelector(".forecastLabel");
